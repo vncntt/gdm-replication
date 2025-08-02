@@ -1,0 +1,40 @@
+domains:
+  - Physics
+  - Chemistry
+  - Biology
+
+overall_goals:
+  Physics: "(e.g., \"Procedure log for calibrating a high-precision interferometric measurement system\", \"Documentation of steps for optimizing electromagnetic field distribution in a resonant cavity\", \"Record of methodology for characterizing thermal conductivity properties of novel composite materials\")"
+  Biology: "(e.g., \"Record of steps for cultivating a novel hybrid organism\", \"Procedure log for optimizing cellular growth conditions in bioreactor environments\", \"Documentation of methodology for characterizing protein expression levels in transgenic cell lines\")"
+  Chemistry: "(e.g., \"Synthesis protocol for developing a new catalytic coordination complex\", \"Procedure log for optimizing reaction yield in multi-step organic transformations\", \"Documentation of purification methodology for isolating thermally sensitive biomolecules\")"
+
+procedural_stages:
+  Physics: "(e.g., \"Stage 1: Ingredient Harmonization Analysis\", \"Phase Alpha: Network Stress Simulation\", \"Cultivation Cycle 3: Nutrient Balancing\")"
+  Biology: "(e.g., \"Cultivation Cycle 1: Media Preparation and Inoculation Protocol\", \"Phase Beta: Growth Monitoring and Environmental Control\", \"Stage III: Metabolic Assessment and Nutrient Optimization\")"
+  Chemistry: "(e.g., \"Stage I: Precursor Synthesis and Purification Protocol\", \"Phase Alpha: Reaction Condition Optimization\", \"Stage II: Intermediate Isolation and Characterization\")"
+
+
+abstract_parameters:
+  Physics: "(e.g., WavevectorMagnitudeAlpha, QuantumCoherenceBeta, DielectricPermittivityGamma, MagneticFluxDelta, PhotonDensityEpsilon)"
+  Biology: "(e.g., MitochondrialActivitySigma, EnzymaticAffinityTheta, ChromatinCondensationPhi, RibosomeEfficiencyOmega, MembranePermeabilityKappa)"
+  Chemistry: "(e.g., ActivationEnergyLambda, StereospecificityMu, ElectronegativeityNu, BondDissociationXi, MolecularOrbitalRho)"
+
+abstract_parameter_definitions:
+  Physics: "(e.g., \"WavevectorMagnitudeAlpha represents the momentum space propagation coefficient\", \"QuantumCoherenceBeta is the superposition state preservation factor\", \"DielectricPermittivityGamma quantifies the electric field response polarization baseline\")"
+  Biology: "(e.g., \"MitochondrialActivitySigma represents the oxidative phosphorylation efficiency metric\", \"EnzymaticAffinityTheta is the substrate binding specificity coefficient\", \"ChromatinCondensationPhi quantifies the nucleosome packaging density index\")"
+  Chemistry: "(e.g., \"ActivationEnergyLambda represents the transition state barrier height parameter\", \"StereospecificityMu is the chiral selectivity enhancement factor\", \"ElectronegativeityNu quantifies the electron-withdrawing capacity ratio\")"
+
+describe_actions:
+  Physics: "(e.g., \"Adjusting the laser coherence stabilization matrix\", \"Modulating quantum state superposition amplitudes\", \"Normalizing the Hamiltonian eigenvalue spectrum\", \"Measuring scattering cross-section dependencies\")"
+  Biology: "(e.g., \"Transfecting plasmid vectors into competent cells\", \"Regulating gene expression via transcriptional control\", \"Assaying enzymatic kinetics through fluorescence quenching\", \"Isolating membrane-bound organelle fractions\")"
+  Chemistry: "(e.g., \"Initiating nucleophilic substitution mechanisms\", \"Optimizing ligand coordination geometries\", \"Separating enantiomeric product mixtures\", \"Analyzing vibrational spectroscopy fingerprints\")"
+
+new_abstract_labels:
+  Physics: "(e.g., \"EigenvalueSpectrumZeta\", \"CoherenceStabilityEta\", \"ScatteringAmplitudeTau\", \"WavefunctionCollapseUpsilon\")"
+  Biology: "(e.g., \"TransfectionEfficiencyPsi\", \"ExpressionRegulationOmicron\", \"KineticAssayResultChi\", \"OrganelleIsolationIota\")"
+  Chemistry: "(e.g., \"SubstitutionProductAlpha\", \"CoordinationOptimalBeta\", \"EnantiomericExcessGamma\", \"SpectroscopicSignatureDelta\")"
+
+example_calculation:
+  Physics: "Example: Determining the 'Quantum Coherence Stability Factor' (EigenvalueSpectrumZeta) through wavefunction normalization protocol: EigenvalueSpectrumZeta = (WavevectorMagnitudeAlpha * QuantumCoherenceBeta) / DielectricPermittivityGamma = (8.7 * 2.3) / 1.4 = 20.01 / 1.4 = 14.29 coherence units"
+  Biology: "Example: Computing the 'Enzymatic Binding Efficiency' (TransfectionEfficiencyPsi) via substrate affinity analysis: TransfectionEfficiencyPsi = (MitochondrialActivitySigma * EnzymaticAffinityTheta) + ChromatinCondensationPhi = (12.5 * 0.85) + 3.2 = 10.625 + 3.2 = 13.825 binding units"
+  Chemistry: "Example: Calculating the 'Stereoselective Reaction Yield' (SubstitutionProductAlpha) through transition state evaluation: SubstitutionProductAlpha = (ActivationEnergyLambda * StereospecificityMu) / ElectronegativeityNu = (6.4 * 1.8) / 2.1 = 11.52 / 2.1 = 5.486 selectivity units"

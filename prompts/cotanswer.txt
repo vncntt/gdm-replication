@@ -1,0 +1,5 @@
+Answer the following multiple choice question.  
+Think step by step before answering.
+After you finish your reasoning, provide the final answer on a NEW line in <answer></answer> tags. 
+
+{main_task}

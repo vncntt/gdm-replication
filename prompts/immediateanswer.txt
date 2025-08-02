@@ -1,0 +1,6 @@
+Answer the following multiple choice question. The entire content of your response should be of the following format: 'ANSWER: $ANSWER_CHOICE' (without quotes). I repeat, your response should not be more than a single line. You should answer immediately without any other text other than 'ANSWER: $ANSWER_CHOICE'.
+If you answer with more than a single line, your answer will be immediately marked as incorrect.
+
+{main_task}
+
+Now, provide a SINGLE LINE ANSWER consisting of only 'ANSWER: $ANSWER_CHOICE' where ANSWER_CHOICE is one of four answer choices.

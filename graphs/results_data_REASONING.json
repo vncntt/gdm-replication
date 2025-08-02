@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "monitors": [
+      "4o"
+    ],
+    "methods": [
+      "baseline",
+      "art4",
+      "art9",
+      "art26"
+    ],
+    "models": [
+      "37sonnet",
+      "4o",
+      "4sonnet"
+    ]
+  },
+  "results": {
+    "4o": {
+      "37sonnet": {
+        "baseline": {
+          "monitor_success_rate": 0.9605,
+          "task_accuracy": 0.7829
+        },
+        "art4": {
+          "monitor_success_rate": 1.0,
+          "task_accuracy": 0.6974
+        },
+        "art9": {
+          "monitor_success_rate": 0.9934,
+          "task_accuracy": 0.7632
+        },
+        "art26": {
+          "monitor_success_rate": 1.0,
+          "task_accuracy": 0.7171
+        }
+      },
+      "4sonnet": {
+        "baseline": {
+          "monitor_success_rate": 0.9605,
+          "task_accuracy": 0.75
+        },
+        "art4": {
+          "monitor_success_rate": 1.0,
+          "task_accuracy": 0.7105
+        },
+        "art9": {
+          "monitor_success_rate": 1.0,
+          "task_accuracy": 0.7566
+        },
+        "art26": {
+          "monitor_success_rate": 1.0,
+          "task_accuracy": 0.7171
+        }
+      }
+    }
+  }
+}

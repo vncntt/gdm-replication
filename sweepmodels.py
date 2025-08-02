@@ -60,9 +60,9 @@ tasks = [
 
 MODELS=[
     "openai/gpt-4o",
-    # "anthropic/claude-sonnet-4-20250514",
-    # "anthropic/claude-3-7-sonnet-20250219",
-    # "openrouter/openrouter/google/gemini-2.0-flash-001",
+    "anthropic/claude-sonnet-4-20250514",
+    "anthropic/claude-3-7-sonnet-20250219",
+    "openrouter/openrouter/google/gemini-2.0-flash-001",
 ]
 
 
@@ -73,6 +73,5 @@ results = eval(
     max_connections=100,
     log_level="info",
     log_dir=f"logs/REASONING",
-    reasoning_tokens=8192
-    # extra_body={"reasoning":{"exclude":True}, "enable_thinking": False}
+    # reasoning_tokens=8192
 )
